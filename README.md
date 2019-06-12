@@ -67,4 +67,4 @@ USE `smokdb`;
 * Muhamed Zahiri
 * Ndriqim Muhadri
 
-Për më shumë shikoni ne linkun [Kontribuesit](https://github.com/ndriqimh/PI18_19_Gr7/graphs/contributors)
+Për më shumë shikoni ne linkun [Kontribuesit](https://github.com/ndriqimh/MenaxhimiKonsulltimeve_FIEK_Gr15/graphs/contributors)
