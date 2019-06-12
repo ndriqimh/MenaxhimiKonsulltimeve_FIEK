@@ -49,7 +49,7 @@ pw admin
 
 #### Databaza
 Databaza duhet të merret nga github ose të krijohet ne MySQL(ose aplikacione te ngjajshme).Nëse krijohet atherë:
-Emri i databazes duhet të jetë **smokdb**,dhe krijohen tabela me emër **admins**,**allusers**,**postimet**,**professors**,**students** si në fajllin [db](https://github.com/ndriqimh/MenaxhimiKonsulltimeve_FIEK_Gr15/blob/master/Dump20190612.sql)
+Emri i databazes duhet të jetë **smokdb**,dhe krijohen tabela me emër **admins**,**allusers**,**postimet**,**professors**,**students** si në fajllin [Kliko-DB](https://github.com/ndriqimh/MenaxhimiKonsulltimeve_FIEK_Gr15/blob/master/Dump20190612.sql)
 ```sql
 
 CREATE DATABASE  IF NOT EXISTS `smokdb`;
@@ -58,7 +58,7 @@ USE `smokdb`;
 ``` 
 #### Prezantimi 
 
->Në skedarin [Knk-Prezantimi](https://github.com/ndriqimh/MenaxhimiKonsulltimeve_FIEK_Gr15/blob/master/KNK-Prezentimi.pptx) gjendet një prezantim i shkrutë i projektit në fjalë.
+>Në skedarin [Knk-Prezantimi](https://github.com/ndriqimh/MenaxhimiKonsulltimeve_FIEK_Gr15/blob/master/KNK-Prezentimi.pptx) gjendet një prezantim i shkurtë i projektit në fjalë.
 
 #### Kontribuesit
 
